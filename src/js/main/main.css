@@ -1,0 +1,82 @@
+.App {
+    text-align: center;
+    justify-content: center;
+}
+
+.app_sub_headers {
+    color: #ffffff;
+    border-bottom: 0.25px solid #414f6b;
+    max-width: 35%;
+    margin: 0 auto 1rem;
+}
+
+.App button {
+    margin: 0.5rem;
+}
+
+.custom_container {
+    margin-top: 1rem;
+}
+
+.custom-btn {
+    cursor: pointer;
+    background-color: #414f6b;
+    color: #fff;
+    padding: 0.5rem 0.75rem;
+    border: none;
+    border-radius: 5px;
+}
+
+.custom-btn:active {
+    background-color: #223967;
+}
+
+.custom-btn:hover {
+    box-shadow: 0 0 0 2px #2c4a87;
+}
+
+.custom-btn:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #414f6b;
+}
+
+.color-box {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.color-palette {
+    margin-top: 1.5rem;
+}
+
+.saved_themes {
+    margin-top: 1.5rem;
+}
+
+.saved_theme {
+    padding-bottom: 0.5rem;
+    border-bottom: 0.25px solid #414f6b;
+    max-width: 35%;
+    margin: 0 auto 0.5rem;
+}
+
+.theme_colors {
+    margin-bottom: 0.4rem;
+}
+
+.custom_input {
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+#custom-style {
+    margin-top: 1rem;
+    padding: 0.4rem;
+}
+
+.theme-style {
+    font-weight: bold;
+    color: #ffffff;
+}
