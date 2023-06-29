@@ -13,7 +13,7 @@
 ## Features
 
 - Random color pallete generator
-- Random Design Style generator
+- Random design style generator
 - Saving and customizing generated design and color palette
 
 ## how to  install
@@ -24,8 +24,7 @@
 
 ## how to use extension
 
-- link to the video will be added here
-
+- link to the [Video](https://www.loom.com/60f7874ce26243198fd73baa40ed8ef1)
 ## Author
 
 - Levy Naibei
